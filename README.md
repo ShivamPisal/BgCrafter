@@ -16,7 +16,7 @@
 
 ## 🖼️ Preview
 
-![BgCrafter Screenshot](insert-screenshot-url-here)
+![BgCrafter Screenshot](Screenshot.png)
 
 ---
 
